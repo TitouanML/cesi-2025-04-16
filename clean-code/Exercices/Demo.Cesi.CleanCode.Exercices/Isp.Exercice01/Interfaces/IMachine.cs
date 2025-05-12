@@ -13,4 +13,19 @@ namespace Isp.Exercice01.Interfaces
         void Fax();
     }
 
+    public interface IPrinter
+    {
+        void Print();
+    }
+
+    public interface IScaner
+    {
+        void Scan();
+    }
+
+    public interface IFaxer
+    {
+        void Fax();
+    }
+
 }

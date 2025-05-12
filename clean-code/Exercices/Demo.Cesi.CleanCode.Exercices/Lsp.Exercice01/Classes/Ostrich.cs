@@ -8,9 +8,9 @@ namespace Lsp.Exercice01.Classes
 {
     public class Ostrich : Bird
     {
-        public override void Fly()
+        public override void Walk()
         {
-            throw new NotImplementedException("Ostriches can't fly!");
+            Console.WriteLine("Walking ostrich...");
         }
     }
 }

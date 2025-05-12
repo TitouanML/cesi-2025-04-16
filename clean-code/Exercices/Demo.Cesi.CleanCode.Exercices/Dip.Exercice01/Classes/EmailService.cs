@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Dip.Exercice01.Classes
 {
-    public class EmailService
+    public class EmailService: IEmailService 
     {
-        public void SendEmail(string message)
+        public void sendEmail(string message)
         {
             Console.WriteLine($"Email envoyé : {message}");
         }

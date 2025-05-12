@@ -1,0 +1,5 @@
+C:\Users\titou\Desktop\cours\fork_clean_code\cesi-2025-04-16\clean-code\Exercices\Demo.Cesi.CleanCode.Exercices\Ocp.Exercice01\obj\Debug\net8.0\Ocp.Exercice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titou\Desktop\cours\fork_clean_code\cesi-2025-04-16\clean-code\Exercices\Demo.Cesi.CleanCode.Exercices\Ocp.Exercice01\obj\Debug\net8.0\Ocp.Exercice01.AssemblyInfoInputs.cache
+C:\Users\titou\Desktop\cours\fork_clean_code\cesi-2025-04-16\clean-code\Exercices\Demo.Cesi.CleanCode.Exercices\Ocp.Exercice01\obj\Debug\net8.0\Ocp.Exercice01.AssemblyInfo.cs
+C:\Users\titou\Desktop\cours\fork_clean_code\cesi-2025-04-16\clean-code\Exercices\Demo.Cesi.CleanCode.Exercices\Ocp.Exercice01\obj\Debug\net8.0\Ocp.Exercice01.csproj.CoreCompileInputs.cache
+C:\Users\titou\Desktop\cours\fork_clean_code\cesi-2025-04-16\clean-code\Exercices\Demo.Cesi.CleanCode.Exercices\Ocp.Exercice01\obj\Debug\net8.0\Ocp.Exercice01.sourcelink.json

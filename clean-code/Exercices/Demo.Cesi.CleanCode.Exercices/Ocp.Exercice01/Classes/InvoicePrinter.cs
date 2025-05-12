@@ -6,23 +6,20 @@ using System.Threading.Tasks;
 
 namespace Ocp.Exercice01.Classes
 {
-    public class InvoicePrinter
+   public class PdfInvoicePrinter : IInvoicePrinter
+{
+    public void Print()
     {
-        public void PrintInvoice(string type)
-        {
-            if (type == "PDF")
-            {
-                Console.WriteLine("Printing PDF Invoice...");
-            }
-            else if (type == "Excel")
-            {
-                Console.WriteLine("Printing Excel Invoice...");
-            }
-            else
-            {
-                Console.WriteLine("Unknown invoice type");
-            }
-        }
+        Console.WriteLine("Printing PDF Invoice...");
     }
+}
+
+public class ExcelInvoicePrinter : IInvoicePrinter
+{
+    public void Print()
+    {
+        Console.WriteLine("Printing Excel Invoice...");
+    }
+}
 
 }

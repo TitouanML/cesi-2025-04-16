@@ -2,7 +2,7 @@
 
 namespace Isp.Exercice01.Classes
 {
-    public class OldPrinter : IMachine
+    public class OldPrinter : IPrinter
     {
         public void Print() { Console.WriteLine("Printing..."); }
         public void Scan() { throw new NotImplementedException(); }

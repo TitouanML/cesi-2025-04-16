@@ -2,12 +2,17 @@
 {
     public class OrderProcessor
     {
-        private EmailService _emailService = new EmailService();
+        private IEmailService _emailService;
+
+        public OrderProcessor(IEmailService emailService)
+        {
+            _emailService = emailService;
+        }
 
         public void Process()
         {
             // Traitement de la commande...
-            _emailService.SendEmail("Commande traitée.");
+            _emailService.sendEmail("Commande traitée.");
         }
     }
 

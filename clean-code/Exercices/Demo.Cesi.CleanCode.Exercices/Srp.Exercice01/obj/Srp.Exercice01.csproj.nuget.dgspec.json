@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj": {}
+    "C:\\Users\\titou\\Desktop\\cours\\fork_clean_code\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj": {
+    "C:\\Users\\titou\\Desktop\\cours\\fork_clean_code\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj",
+        "projectUniqueName": "C:\\Users\\titou\\Desktop\\cours\\fork_clean_code\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj",
         "projectName": "Srp.Exercice01",
-        "projectPath": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj",
-        "packagesPath": "C:\\Users\\gharr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gharr\\Documents\\.repos\\github-utopios\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\obj\\",
+        "projectPath": "C:\\Users\\titou\\Desktop\\cours\\fork_clean_code\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\Srp.Exercice01.csproj",
+        "packagesPath": "C:\\Users\\titou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\titou\\Desktop\\cours\\fork_clean_code\\cesi-2025-04-16\\clean-code\\Exercices\\Demo.Cesi.CleanCode.Exercices\\Srp.Exercice01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gharr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\titou\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
